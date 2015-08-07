@@ -8,3 +8,7 @@ Reglas:
 Una célula muerta con exactamente 3 células vecinas vivas "nace" (al turno siguiente estará viva).
 Una célula viva con 2 ó 3 células vecinas vivas sigue viva, en otro caso muere o permanece muerta (por "soledad" o "superpoblación").
 
+
+
+
+![value samples - light](http://www.nebaris.com/imagenes/0206/01.png)
